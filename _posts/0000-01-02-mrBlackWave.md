@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Existence is your exile" - Anonymous 
 Use the left arrow to go back!
